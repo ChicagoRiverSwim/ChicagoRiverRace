@@ -1,6 +1,6 @@
-var json__0 = {
+var json_Point_Data_0 = {
 "type": "FeatureCollection",
-"name": "_0",
+"name": "Point_Data_0",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "OBJECTID": 1.0, "Service": "Chicago River Race", "Layer": "Race Command Center", "FieldX_Long": -87.629814, "FieldY_Lat": 41.887052 }, "geometry": { "type": "Point", "coordinates": [ -87.629814, 41.887052 ] } },
